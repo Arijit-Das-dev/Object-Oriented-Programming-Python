@@ -12,7 +12,7 @@
 
     - After creating classes / blueprints we create multiple objects.
 
-### **Syntax :**
+### Syntax :
 ```python
 
 # Blueprint

@@ -4,7 +4,7 @@
     - class attribute
     - object attribute
 
-### **Syntax**
+### Syntax :
 ```python
 
 class Student:

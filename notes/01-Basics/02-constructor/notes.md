@@ -5,7 +5,7 @@
 
 - That **self** Parameter refers to the current object of the class when it is initialize.
 
-### **Syntax :**
+### Syntax :
 ```python
 
 class Student:
