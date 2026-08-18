@@ -18,3 +18,27 @@ class Student:
 # self parameter refers to that object
 obj = Student()
 ```
+
+
+---
+### Types of Constructor
+- There are two types of constructors
+- Type:
+    - 1. Parameterized constructor - A constructor which takes parameters
+        - [__init__(self, param1, param2)]
+
+    - 2. Default constructor - A constructor which takes no parameters  
+        - [__init__(self)]
+
+### 1. Parameterized constructor
+```python
+class Student:
+
+    # default constuctor
+    def __init__(self):
+        pass
+
+    # parameterized constructor
+    def __init__(Self, param1, param2):
+        pass
+```
