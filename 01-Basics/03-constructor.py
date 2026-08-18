@@ -7,3 +7,9 @@ class Student:
 
 # self parameter refers to that current object.
 obj = Student()
+
+# parameterized constuctor <- Takes multiple parameters
+# __init__(self, param1, param2)
+
+# default constructor <- Takes zero parameters except self
+# __init__(self)
